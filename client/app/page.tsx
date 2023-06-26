@@ -10,7 +10,7 @@ import {
   RecipeCard,
 } from "@/components"
 
-const API_URL = "https://recipe-apo.onrender.com/api/v1/"
+const API_URL = "https://recipe-apo.onrender.com/api/v1"
 export type recipeType = {
   id: number
   title: string
