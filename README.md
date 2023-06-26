@@ -64,6 +64,8 @@ To start client project, you need to go to client folder and then run commend:
 yarn dev
 ```
 
+## Cypress Usage
+
 To check the cypress test, use the following command:
 
 ```
